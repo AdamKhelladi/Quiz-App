@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Why we use <br> Element",
+    "answer_1": "To make text bold",
+    "answer_2": "To make text italic",
+    "answer_3": "To add a breakline",
+    "answer_4": "To add a horizontal line",
+    "right_answer": "To add a breakline"
+  },
+  {
+    "title": "Which of the following is not a programming language?",
+    "answer_1": "Java",
+    "answer_2": "CSS",
+    "answer_3": "Python",
+    "answer_4": "Ruby",
+    "right_answer": "CSS"
+  },
+  {
+    "title": "What does CSS stand for?",
+    "answer_1": "Cascading Style Sheets",
+    "answer_2": "Computer Science Society",
+    "answer_3": "Creative Style Solutions",
+    "answer_4": "Colorful Styling System",
+    "right_answer": "Cascading Style Sheets"
+  },
+  {
+    "title": "What is the purpose of JavaScript?",
+    "answer_1": "To provide styling for web pages",
+    "answer_2": "To create interactive web pages",
+    "answer_3": "To define the structure of web pages",
+    "answer_4": "To manage databases",
+    "right_answer": "To create interactive web pages"
+  },
+  {
+    "title": "Which symbol is used for comments in JavaScript?",
+    "answer_1": "//",
+    "answer_2": "/* */",
+    "answer_3": "<!-- -->",
+    "answer_4": "#",
+    "right_answer": "//"
+  },
+  {
+    "title": "What is the output of 'console.log(typeof [])'?",
+    "answer_1": "array",
+    "answer_2": "object",
+    "answer_3": "string",
+    "answer_4": "undefined",
+    "right_answer": "object"
+  },
+  {
+    "title": "What does IDE stand for in programming?",
+    "answer_1": "Integrated Development Environment",
+    "answer_2": "Integrated Design Environment",
+    "answer_3": "Interactive Development Environment",
+    "answer_4": "Internet Development Environment",
+    "right_answer": "Integrated Development Environment"
+  },
+  {
+    "title": "In JavaScript, what is the purpose of the 'document.getElementById()' method?",
+    "answer_1": "To get the value of an element",
+    "answer_2": "To get the style of an element",
+    "answer_3": "To get an element by its ID",
+    "answer_4": "To get the parent element of an element",
+    "right_answer": "To get an element by its ID"
+  },
+  {
+    "title": "Which of the following is not a valid JavaScript variable name?",
+    "answer_1": "myVariable",
+    "answer_2": "_myVariable",
+    "answer_3": "3myVariable",
+    "answer_4": "$myVariable",
+    "right_answer": "3myVariable"
+  },
+  {
+    "title": "What is the output of the following JavaScript code: console.log(2 + '2')?",
+    "answer_1": "4",
+    "answer_2": "22",
+    "answer_3": "2",
+    "answer_4": "NaN",
+    "right_answer": "22"
+  },
+  {
+    "title": "Which of the following is not a JavaScript data type?",
+    "answer_1": "string",
+    "answer_2": "boolean",
+    "answer_3": "numeric",
+    "answer_4": "list",
+    "right_answer": "list"
+  },
+  {
+    "title": "What is the purpose of the 'for' loop in programming?",
+    "answer_1": "To execute a block of code multiple times",
+    "answer_2": "To define a function",
+    "answer_3": "To check a condition",
+    "answer_4": "To store multiple values in a variable",
+    "right_answer": "To execute a block of code multiple times"
+  },
+  {
+    "title": "What does the 'isNaN()' function in JavaScript do?",
+    "answer_1": "Checks if a value is not a number",
+    "answer_2": "Converts a value to a number",
+    "answer_3": "Checks if a value is a number",
+    "answer_4": "Converts a value to a string",
+    "right_answer": "Checks if a value is not a number"
+  },
+  {
+    "title": "In programming, what is a 'function'?",
+    "answer_1": "A variable that stores multiple values",
+    "answer_2": "A block of code that performs a specific task",
+    "answer_3": "A way to style elements on a web page",
+    "answer_4": "A type of loop",
+    "right_answer": "A block of code that performs a specific task"
+  },
+  {
+    "title": "Which symbol is used for equality comparison in JavaScript?",
+    "answer_1": "==",
+    "answer_2": "===",
+    "answer_3": "!=",
+    "answer_4": "!==",
+    "right_answer": "==="
+  },
+  {
+    "title": "What does the 'typeof' operator in JavaScript return?",
+    "answer_1": "The type of a variable",
+    "answer_2": "The value of a variable",
+    "answer_3": "The length of a string",
+    "answer_4": "The index of an element in an array",
+    "right_answer": "The type of a variable"
+  },
+  {
+    "title": "What is the purpose of the 'return' statement in a JavaScript function?",
+    "answer_1": "To stop the execution of the function",
+    "answer_2": "To return a value from the function",
+    "answer_3": "To define the function",
+    "answer_4": "To check a condition",
+    "right_answer": "To return a value from the function"
+  },
+  {
+    "title": "Which of the following is not a valid way to declare a variable in JavaScript?",
+    "answer_1": "var x;",
+    "answer_2": "let y;",
+    "answer_3": "const z;",
+    "answer_4": "variable w;",
+    "right_answer": "variable w;"
+  },
+  {
+    "title": "What is the purpose of the 'console.log()' method in JavaScript?",
+    "answer_1": "To log messages to the console",
+    "answer_2": "To display messages on the web page",
+    "answer_3": "To create a pop-up message",
+    "answer_4": "To store messages in a variable",
+    "right_answer": "To log messages to the console"
+  },
+  {
+    "title": "What does the 'isNaN()' function in JavaScript do?",
+    "answer_1": "Checks if a value is not a number",
+    "answer_2": "Converts a value to a number",
+    "answer_3": "Checks if a value is a number",
+    "answer_4": "Converts a value to a string",
+    "right_answer": "Checks if a value is not a number"
+  }
+]
